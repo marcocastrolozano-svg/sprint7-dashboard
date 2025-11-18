@@ -2,7 +2,7 @@ import streamlit as st
 import plotly.express as px
 import pandas as pd
 
-st.title("🚀 Proyecto Sprint 7")
+st.title("Proyecto Sprint 7")
 st.write("Hola, Render ya está funcionando con Streamlit.")
 
 # --- Dataset de prueba
